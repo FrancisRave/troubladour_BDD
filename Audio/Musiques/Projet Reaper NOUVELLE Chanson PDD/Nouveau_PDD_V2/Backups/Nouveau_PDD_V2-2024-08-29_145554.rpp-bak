@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.15/win64" 1724938233
+<REAPER_PROJECT 0.1 "7.15/win64" 1724936153
   <NOTES 0 2
   >
   RIPPLE 0
@@ -13,13 +13,13 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
-  GRID 3199 8 1 8 1 0 0 0
+  GRID 3455 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 99.5
-  ZOOM 32.35103691778885 3025 0
+  CURSOR 54.66539993173139
+  ZOOM 16.32896027870809 153 0
   VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
@@ -183,7 +183,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -1311,7 +1311,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -2609,7 +2609,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -3728,7 +3728,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -5082,7 +5082,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 0.22971712796699 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 2 -1
@@ -5092,7 +5092,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -5104,7 +5104,7 @@
       EGUID {EB7B7CCC-8F0C-47FD-9345-3663EB26DC16}
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 0 0
+      LANEHEIGHT 0 1
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -6813,7 +6813,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1.63360764149342 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -6849,7 +6849,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -7636,7 +7636,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -8430,7 +8430,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -9177,7 +9177,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -10101,7 +10101,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -15533,7 +15533,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 236 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -15545,7 +15545,7 @@
       EGUID {8F1F7C15-E9C2-4B0F-A2A4-DE736280943B}
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 0 0
+      LANEHEIGHT 0 1
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -18721,197 +18721,187 @@
       >
     >
     <ITEM
-      POSITION 42.01890504094088
+      POSITION 42
       SNAPOFFS 0
-      LENGTH 28.48125000000029
+      LENGTH 27.85835373858744
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F7F05407-20CC-4D46-B7B9-F1292F7D6976}
-      IID 1256
-      NAME 01-MélodieHarps-MIDI
+      IGUID {15C76B96-7923-4342-8D57-EF0D3888B2BB}
+      IID 1160
+      NAME 01-MélodieHarps-MIDI-glued
       VOLPAN 1 0 1 -1
-      SOFFS 0.18140504094088 0.36281008188176
+      SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {F596B6AE-7B1B-4791-8734-6E20EE75FD8A}
+      GUID {3A099249-4A67-4CF5-AE91-FE71865B3E41}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {BC022D89-D3A2-463B-A4E4-970DFC121920}
-        e 2232 90 4c 60 36
-        e 288 80 4c 00 36
-        e 192 90 4c 60
-        e 288 80 4c 00
-        e 192 90 4c 60
-        e 375 80 4c 00
-        e 105 90 4c 60
-        e 104 80 4c 00
-        e 136 90 4e 60
-        e 104 80 4e 00
-        e 136 90 4f 60
-        e 240 80 4f 00
-        e 240 90 4c 60
-        e 738 80 4c 00
-        e 222 90 4e 60
-        e 240 80 4e 00
-        e 240 90 47 60
-        e 392 80 47 00
-        e 88 90 47 60
-        e 104 80 47 00
-        e 136 90 49 60
-        e 104 80 49 00
-        e 136 90 4b 60
-        e 240 80 4b 00
-        e 240 90 4c 60
-        e 678 80 4c 00
-        e 282 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4e 60
-        e 480 80 4e 00
-        e 0 90 4a 60
-        e 140 80 4a 00
-        e 100 90 4a 60
-        e 140 80 4a 00
-        e 100 90 4a 60
-        e 140 80 4a 00
-        e 340 90 4a 60
-        e 480 80 4a 00
-        e 480 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4a 60
-        e 720 80 4a 00
-        e 240 90 48 60
-        e 240 80 48 00
-        e 240 90 47 60
-        e 720 80 47 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 480 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 0 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4e 60
-        e 480 80 4e 00
-        e 0 90 4a 60
-        e 480 80 4a 00
-        e 0 90 4e 60
-        e 480 80 4e 00
-        e 0 90 4f 60
-        e 669 80 4f 00
-        e 291 90 4a 60
-        e 240 80 4a 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 720 90 4a 60
-        e 182 80 4a 00
-        e 298 90 4c 60
-        e 480 80 4c 00
-        e 0 90 45 60
-        e 240 80 45 00
-        e 240 90 45 60
-        e 240 80 45 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 240 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 240 90 48 60
-        e 240 80 48 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 43 60
-        e 240 80 43 00
-        e 240 90 45 60
-        e 240 80 45 00
-        e 720 90 4a 60
-        e 240 80 4a 00
-        e 240 90 4f 60
-        e 480 80 4f 00
-        e 0 90 4a 60
-        e 161 80 4a 00
-        e 79 90 4a 60
-        e 161 80 4a 00
-        e 79 90 4a 60
-        e 161 80 4a 00
-        e 319 90 4c 60
-        e 720 80 4c 00
-        e 240 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4b 60
-        e 410 80 4b 00
-        e 70 90 4b 60
-        e 146 80 4b 00
-        e 94 90 4c 60
-        e 240 80 4c 00
-        e 0 90 4e 60
-        e 240 80 4e 00
-        e 240 90 4f 60
-        e 480 80 4f 00
-        e 960 90 4c 60
-        e 323 80 4c 00
-        e 157 90 47 60
-        e 220 80 47 00
-        e 260 90 47 60
-        e 220 80 47 00
-        e 260 90 47 60
-        e 720 80 47 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 720 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 240 90 48 60
-        e 720 80 48 00
-        e 720 90 4a 60
-        e 387 80 4a 00
-        e 93 90 45 60
-        e 240 80 45 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 691 80 48 00
-        e 269 90 4a 60
-        e 240 80 4a 00
-        e 240 90 47 60
-        e 720 80 47 00
-        e 720 90 47 60
-        e 240 80 47 00
-        e 1200 90 48 60
-        e 240 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 240 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4e 60
-        e 480 80 4e 00
-        e 480 90 4e 60
-        e 240 80 4e 00
-        e 240 90 4a 60
-        e 720 80 4a 00
-        e 240 90 4e 60
-        e 240 80 4e 00
-        e 240 90 4f 60
-        e 1920 80 4f 00
-        E 23821 b0 7b 00
+        POOLEDEVTS {46FA6E5C-56CA-44AA-9F5D-DE00AB71C2C9}
+        E 1920 90 40 60
+        E 288 80 40 00
+        E 192 90 3f 60
+        E 288 80 3f 00
+        E 192 90 40 60
+        E 720 80 40 00
+        E 240 90 3b 60
+        E 480 80 3b 00
+        E 0 90 3b 60
+        E 480 80 3b 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 0 90 40 60
+        E 480 80 40 00
+        E 0 90 3f 60
+        E 480 80 3f 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 480 90 38 60
+        E 480 80 38 00
+        E 0 90 3d 60
+        E 960 80 3d 00
+        E 0 90 38 60
+        E 153 80 38 00
+        E 327 90 38 60
+        E 153 80 38 00
+        E 327 90 3a 60
+        E 480 80 3a 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 0 90 3c 60
+        E 480 80 3c 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 0 90 3f 60
+        E 480 80 3f 00
+        E 0 90 38 60
+        E 960 80 38 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 39 60
+        E 480 80 39 00
+        E 240 90 3b 60
+        E 240 80 3b 00
+        E 0 90 3d 60
+        E 240 80 3d 00
+        E 240 90 3f 60
+        E 960 80 3f 00
+        E 0 90 3b 60
+        E 480 80 3b 00
+        E 0 90 40 60
+        E 960 80 40 00
+        E 0 90 42 60
+        E 480 80 42 00
+        E 0 90 44 60
+        E 480 80 44 00
+        E 480 90 44 60
+        E 480 80 44 00
+        E 0 90 42 60
+        E 480 80 42 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 480 90 40 60
+        E 480 80 40 00
+        E 0 90 3f 60
+        E 960 80 3f 00
+        E 0 90 40 60
+        E 480 80 40 00
+        E 0 90 3f 60
+        E 960 80 3f 00
+        E 0 90 38 60
+        E 480 80 38 00
+        E 0 90 40 60
+        E 960 80 40 00
+        E 0 90 40 60
+        E 240 80 40 00
+        E 240 90 40 60
+        E 240 80 40 00
+        E 240 90 3f 60
+        E 240 80 3f 00
+        E 240 90 3d 60
+        E 240 80 3d 00
+        E 240 90 3f 60
+        E 960 80 3f 00
+        E 0 90 40 60
+        E 240 80 40 00
+        E 241 90 42 60
+        E 240 80 42 00
+        E 239 90 44 60
+        E 240 80 44 00
+        E 240 90 42 60
+        E 240 80 42 00
+        E 240 90 40 60
+        E 480 80 40 00
+        E 0 90 3b 60
+        E 240 80 3b 00
+        E 240 90 3b 60
+        E 240 80 3b 00
+        E 240 90 40 60
+        E 240 80 40 00
+        E 240 90 42 60
+        E 240 80 42 00
+        E 240 90 44 60
+        E 240 80 44 00
+        E 240 90 42 60
+        E 1440 80 42 00
+        E 0 90 45 60
+        E 720 80 45 00
+        E 240 90 44 60
+        E 480 80 44 00
+        E 0 90 40 60
+        E 480 80 40 00
+        E 0 90 40 60
+        E 240 80 40 00
+        E 240 90 40 60
+        E 240 80 40 00
+        E 240 90 40 60
+        E 240 80 40 00
+        E 240 90 3f 60
+        E 240 80 3f 00
+        E 240 90 3d 60
+        E 240 80 3d 00
+        E 240 90 3f 60
+        E 1200 80 3f 00
+        E 240 90 3f 60
+        E 480 80 3f 00
+        E 0 90 3d 60
+        E 480 80 3d 00
+        E 0 90 3b 60
+        E 480 80 3b 00
+        E 0 90 40 60
+        E 960 80 40 00
+        E 0 90 40 60
+        E 341 80 40 00
+        E 139 90 42 60
+        E 960 80 42 00
+        E 0 90 3f 60
+        E 264 80 3f 00
+        e 216 90 40 60
+        e 3360 80 40 00
+        E 4048 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {1A44F12E-9383-4E2D-A4F6-251487201409}
+        GUID {629EFBE6-5852-443B-8DDB-CEDC39C9AA4C}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 692
+        SRCCOLOR 561
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW -4676.908147 0.073102 14 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.06731 30 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 276 51 1875 981 0 0 0 0 0 0 0 1 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 276 51 1875 981 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -20554,197 +20544,187 @@
       >
     >
     <ITEM
-      POSITION 42.01890504094088
+      POSITION 41.99356815972463
       SNAPOFFS 0
-      LENGTH 28.48125000000029
+      LENGTH 28.50643184027535
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {78CF3D75-37D9-4CA9-9F28-9A31C76022C5}
-      IID 1257
+      IGUID {F08ED3D3-BFC0-46D2-B91B-E08D5EBD445A}
+      IID 1162
       NAME 01-MélodieHarps-MIDI
       VOLPAN 1 0 1 -1
       SOFFS 0.18140504094088 0.36281008188176
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {AD313598-B836-469E-BAC7-E16989898B65}
+      GUID {FED34C16-5C92-4FE4-9512-784598327F3D}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {774DA176-F656-449C-9816-054BCD901FA6}
-        e 2232 90 4c 60 36
-        e 288 80 4c 00 36
-        e 192 90 4c 60
-        e 288 80 4c 00
-        e 192 90 4c 60
-        e 375 80 4c 00
-        e 105 90 4c 60
-        e 104 80 4c 00
-        e 136 90 4e 60
-        e 104 80 4e 00
-        e 136 90 4f 60
-        e 240 80 4f 00
-        e 240 90 4c 60
-        e 738 80 4c 00
-        e 222 90 4e 60
-        e 240 80 4e 00
-        e 240 90 47 60
-        e 392 80 47 00
-        e 88 90 47 60
-        e 104 80 47 00
-        e 136 90 49 60
-        e 104 80 49 00
-        e 136 90 4b 60
-        e 240 80 4b 00
-        e 240 90 4c 60
-        e 678 80 4c 00
-        e 282 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4e 60
-        e 480 80 4e 00
-        e 0 90 4a 60
-        e 140 80 4a 00
-        e 100 90 4a 60
-        e 140 80 4a 00
-        e 100 90 4a 60
-        e 140 80 4a 00
-        e 340 90 4a 60
-        e 480 80 4a 00
-        e 480 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4a 60
-        e 720 80 4a 00
-        e 240 90 48 60
-        e 240 80 48 00
-        e 240 90 47 60
-        e 720 80 47 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 480 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 0 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4e 60
-        e 480 80 4e 00
-        e 0 90 4a 60
-        e 480 80 4a 00
-        e 0 90 4e 60
-        e 480 80 4e 00
-        e 0 90 4f 60
-        e 669 80 4f 00
-        e 291 90 4a 60
-        e 240 80 4a 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 720 90 4a 60
-        e 182 80 4a 00
-        e 298 90 4c 60
-        e 480 80 4c 00
-        e 0 90 45 60
-        e 240 80 45 00
-        e 240 90 45 60
-        e 240 80 45 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 240 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 240 90 48 60
-        e 240 80 48 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 43 60
-        e 240 80 43 00
-        e 240 90 45 60
-        e 240 80 45 00
-        e 720 90 4a 60
-        e 240 80 4a 00
-        e 240 90 4f 60
-        e 480 80 4f 00
-        e 0 90 4a 60
-        e 161 80 4a 00
-        e 79 90 4a 60
-        e 161 80 4a 00
-        e 79 90 4a 60
-        e 161 80 4a 00
-        e 319 90 4c 60
-        e 720 80 4c 00
-        e 240 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4b 60
-        e 410 80 4b 00
-        e 70 90 4b 60
-        e 146 80 4b 00
-        e 94 90 4c 60
-        e 240 80 4c 00
-        e 0 90 4e 60
-        e 240 80 4e 00
-        e 240 90 4f 60
-        e 480 80 4f 00
-        e 960 90 4c 60
-        e 323 80 4c 00
-        e 157 90 47 60
-        e 220 80 47 00
-        e 260 90 47 60
-        e 220 80 47 00
-        e 260 90 47 60
-        e 720 80 47 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 720 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 240 90 48 60
-        e 720 80 48 00
-        e 720 90 4a 60
-        e 387 80 4a 00
-        e 93 90 45 60
-        e 240 80 45 00
-        e 240 90 47 60
-        e 240 80 47 00
-        e 240 90 48 60
-        e 691 80 48 00
-        e 269 90 4a 60
-        e 240 80 4a 00
-        e 240 90 47 60
-        e 720 80 47 00
-        e 720 90 47 60
-        e 240 80 47 00
-        e 1200 90 48 60
-        e 240 80 48 00
-        e 240 90 4a 60
-        e 240 80 4a 00
-        e 240 90 4c 60
-        e 240 80 4c 00
-        e 240 90 4e 60
-        e 480 80 4e 00
-        e 480 90 4e 60
-        e 240 80 4e 00
-        e 240 90 4a 60
-        e 720 80 4a 00
-        e 240 90 4e 60
-        e 240 80 4e 00
-        e 240 90 4f 60
-        e 1920 80 4f 00
-        E 23821 b0 7b 00
+        POOLEDEVTS {4BD3A5C8-AC2A-4D41-A64B-FFF5B64D4818}
+        E 2268 90 4c 60
+        E 288 80 4c 00
+        E 192 90 4b 60
+        E 288 80 4b 00
+        E 192 90 4c 60
+        E 720 80 4c 00
+        E 240 90 47 60
+        E 480 80 47 00
+        E 0 90 47 60
+        E 480 80 47 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 0 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4b 60
+        E 480 80 4b 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 0 90 48 60
+        E 480 80 48 00
+        E 0 90 44 60
+        E 480 80 44 00
+        E 480 90 44 60
+        E 480 80 44 00
+        E 0 90 49 60
+        E 960 80 49 00
+        E 0 90 44 60
+        E 480 80 44 00
+        E 0 90 44 60
+        E 480 80 44 00
+        E 0 90 46 60
+        E 480 80 46 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 0 90 48 60
+        E 480 80 48 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 0 90 4b 60
+        E 480 80 4b 00
+        E 0 90 44 60
+        E 960 80 44 00
+        E 0 90 44 60
+        E 480 80 44 00
+        E 0 90 45 60
+        E 480 80 45 00
+        E 240 90 47 60
+        E 240 80 47 00
+        E 0 90 49 60
+        E 240 80 49 00
+        E 240 90 4b 60
+        E 960 80 4b 00
+        E 0 90 47 60
+        E 480 80 47 00
+        E 0 90 4c 60
+        E 960 80 4c 00
+        E 0 90 4e 60
+        E 480 80 4e 00
+        E 0 90 50 60
+        E 480 80 50 00
+        E 480 90 50 60
+        E 480 80 50 00
+        E 0 90 4e 60
+        E 480 80 4e 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 480 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4b 60
+        E 960 80 4b 00
+        E 0 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4b 60
+        E 960 80 4b 00
+        E 0 90 44 60
+        E 480 80 44 00
+        E 0 90 4c 60
+        E 960 80 4c 00
+        E 0 90 4c 60
+        E 240 80 4c 00
+        E 240 90 4c 60
+        E 240 80 4c 00
+        E 240 90 4b 60
+        E 240 80 4b 00
+        E 240 90 49 60
+        E 240 80 49 00
+        E 240 90 4b 60
+        E 960 80 4b 00
+        E 0 90 4c 60
+        E 240 80 4c 00
+        E 241 90 4e 60
+        E 240 80 4e 00
+        E 239 90 50 60
+        E 240 80 50 00
+        E 240 90 4e 60
+        E 240 80 4e 00
+        E 240 90 4c 60
+        E 480 80 4c 00
+        E 0 90 47 60
+        E 240 80 47 00
+        E 240 90 47 60
+        E 240 80 47 00
+        E 240 90 4c 60
+        E 240 80 4c 00
+        E 240 90 4e 60
+        E 240 80 4e 00
+        E 240 90 50 60
+        E 240 80 50 00
+        E 240 90 4e 60
+        E 1440 80 4e 00
+        E 0 90 51 60
+        E 720 80 51 00
+        E 240 90 50 60
+        E 480 80 50 00
+        E 0 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4c 60
+        E 240 80 4c 00
+        E 240 90 4c 60
+        E 240 80 4c 00
+        E 240 90 4c 60
+        E 240 80 4c 00
+        E 240 90 4b 60
+        E 240 80 4b 00
+        E 240 90 49 60
+        E 240 80 49 00
+        E 240 90 4b 60
+        E 1200 80 4b 00
+        E 240 90 4b 60
+        E 480 80 4b 00
+        E 0 90 49 60
+        E 480 80 49 00
+        E 0 90 47 60
+        E 480 80 47 00
+        E 0 90 4c 60
+        E 960 80 4c 00
+        E 0 90 4c 60
+        E 341 80 4c 00
+        E 139 90 4e 60
+        E 960 80 4e 00
+        E 0 90 4b 60
+        E 264 80 4b 00
+        E 216 90 4c 60
+        E 3360 80 4c 00
+        E 23785 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {359770E4-5BB7-4F71-9028-166E5E6071B0}
+        GUID {8F3E106D-21EB-440A-A075-5352D32C1AE1}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 693
+        SRCCOLOR 563
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.094851 14 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.07076 43 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 276 51 1875 981 0 0 0 0 0 0 0 1 0 0.5 0 0 1 64
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.25 276 51 1875 981 0 0 0 0 0 0 0 0 0 0.5 0 0 1 64
       >
     >
     <ITEM
@@ -21134,10 +21114,10 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0
-    SEL 0
+    SEL 1
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 165 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -21357,13 +21337,6 @@
       >
       FLOATPOS 56 84 664 309
       FXID {ADB481EA-67FE-43FF-9D1E-B07A229C99A2}
-      WAK 0 0
-      BYPASS 0 0 0
-      <JS analysis/gfxspectrograph ""
-        6 2 -180 0 0 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-      >
-      FLOATPOS 24 52 656 466
-      FXID {007DA6D0-B6BE-4241-BF9A-70AC6DA54106}
       WAK 0 0
     >
     <ITEM
@@ -21645,7 +21618,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {36FCCD14-65B5-4C85-AACB-CD4609B68312}
       IID 1163
       NAME "03-M1 (KORG) (16 out)-MIDI-glued"
@@ -21806,88 +21779,32 @@
         E 57 90 4c 60
         E 1310 80 43 00
         E 9 80 34 00
-        E 10 90 40 60
-        E 19 80 47 00
+        E 29 80 47 00
         E 12 90 2f 60
-        E 8 90 4e 60
-        E 29 90 45 60
-        E 8 80 4c 00
+        E 16 90 41 60
+        E 29 80 4c 00
         E 40 90 4a 60
-        E 1218 80 40 00
-        E 68 80 45 00
-        E 33 80 2f 00
-        E 33 80 4a 00
-        E 6 90 4c 60
-        E 6 90 48 60
+        E 6 90 45 60
+        E 1259 80 41 00
+        E 54 80 2f 00
+        E 22 80 45 00
+        E 11 80 4a 00
+        e 6 90 4c 60
+        e 6 90 48 60
         E 10 90 2d 60
-        E 9 80 4e 00
-        E 74 90 4f 60
-        E 1320 80 4c 00
-        E 6 80 48 00
-        E 14 90 45 60
-        E 8 90 4c 60
-        E 71 80 4f 00
-        E 1304 80 45 00
-        E 8 80 4c 00
-        E 8 90 45 60
-        E 12 80 2d 00
-        E 18 90 30 60
-        E 85 90 48 60
-        E 10 90 51 60
-        E 1142 80 45 00
-        E 115 80 48 00
-        E 10 80 51 00
-        E 30 80 30 00
-        E 54 90 48 60
-        E 10 90 32 60
-        E 42 90 4c 60
-        E 32 90 4e 60
-        E 1256 80 32 00
-        E 13 90 3e 60
-        E 86 90 45 60
-        E 0 90 2b 60
-        E 27 80 48 00
-        E 27 90 47 60
-        E 25 80 4c 00
-        E 21 80 4e 00
-        E 40 90 4a 60
-        E 2434 80 3e 00
-        E 11 80 2b 00
-        E 75 80 45 00
-        E 54 80 47 00
-        E 86 80 4a 00
-        E 11 90 40 60
-        E 63 90 45 60
-        E 26 90 2d 60
-        E 37 90 48 60
-        E 1330 80 40 00
-        E 9 80 2d 00
-        E 33 90 42 60
-        E 21 80 45 00
-        E 10 90 32 60
-        E 31 90 45 60
-        E 21 80 48 00
-        E 53 90 4a 60
-        E 1193 80 42 00
-        E 63 80 45 00
-        e 0 90 3e 60
-        e 42 90 43 60
-        E 21 80 32 00
-        E 10 80 4a 00
-        e 11 90 2b 60
-        e 52 90 47 60
-        e 4115 80 2b 00
-        e 21 80 3e 00
-        e 42 80 43 00
-        e 94 80 47 00
-        E 4286 b0 7b 00
+        e 83 90 4f 60
+        e 2617 80 4c 00
+        e 5 80 48 00
+        e 94 80 4f 00
+        E 35 80 2d 00
+        E 17298 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
         GUID {80703AFA-3E8A-47D9-944A-3EE043F0E7B3}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 564
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW 4134.452466 0.029581 36 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -6310.199955 0.029581 36 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -22548,7 +22465,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -31027,7 +30944,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 150 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -31812,7 +31729,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -31826,13 +31743,13 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST3i: sforzando (Plogue Art et Technologie, Inc)" sforzando.vst3 0 "" 395535903{5C5CA79682FC437AB6539BA204BAB349} ""
-        H2aTF+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAABAgAAAQAAAP//EAA=
-        8QEAAAEAAAAAAAAA6QEAAENFR1AKBQAAeJyNVMGO2jAQvVfqP1i+VkvsEGCRSFe0oDaqslRN2GvkGEOtOjZNnGj7950YSHLYVeA08/w8nnnhzerptVCoEWUljQ4xnRCM
-        nj5//LBal5IlrBGDs+V8gdG5NIea22gDAKEBBi6C3yoR1kp9qtDfmilp/8ExRpUtBSsADvHUx6hgr4lD1koZHn8J8YwCHEebaFfb2ByEu8Vqawpm4dFEGRtiMoSUaIQK
-        sdRQuy6Ethgp2YjLZWBWHGpMXcAUA4iiByTapiYVV1f4K9wTZYjnwDspkzOV1tq1CYDXjQSvI3lwoGYF1K+Ovpfu9t93+yx6TtJf+3j7nGafsg1E2Y8ozVoCIcQjAcle
-        pFFSY5Qz/SeCKgEc4F5OiPlvpnU7zQNMfTYKRJsHGNm+l3OelUyfxJViIancQTEIDbfwofrp/UcAa+uQ6yxunphJfZunYaq+qO29SaEdhbxH8ccp03FKME6ZjVPm45TF
-        OOVxnLIcp1ByB+cOfekdAtM7FKZ3SEzf1/gnK1lxbWgg0AT+zdT3yYJMqT8buMZrbXNLtsej4HZopM6fF0eti1wKzUVvE7dVhlsnWLqtwzuLd09920e3soxb2AJRvzBc
-        vu3ySihoRBxSll+81BZZebctB8l/VbRTmgAAAAAAAAAA
+        H2aTF+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAACAgAAAQAAAP//EAA=
+        8gEAAAEAAAAAAAAA6gEAAENFR1AKBQAAeJyNVE2P2jAQvVfqf7B8rZbYIYQika5oQW1UZamasNfICYZa9QdNnGj333diIOSwq8Bp5s2b8cwLM8vHFyVRy6taGB1hOiEY
+        PX75+GG5qgRLWcsHsUU4x+hUmX1T2ngNAKEBBi6C3zLl1gp9rNG/hklhXyGMUW0rzhTAEZ76GCn2kjpkJaUpk68RnlGAk3gdbxubmD13WayxRjELj6bS2AiTISR5y2WE
+        hYbajeLaYiRFy8/JwKxLqOGHncEkA4iiB8S7piZ1KS/wN8jjVYRDSDhKUzCZNdq1CYDXjwSvI7F3oGYK6tcH38u2ux/bXR4/pdnvXbJ5yvJP+Rqs/Gec5R2BEOKRgOTP
+        wkihMSqY/htDlQAC+CYn2OUfpnU3zQNMfTISRAsDjOytl1ORV0wf+YViwaldQA1MU1r4UIPpoYZqrEMus7h5Eib0dZ6WyeastvcmhfYU8h7FH6dMxynBOGU2TgnHKfNx
+        yudxymKcQskdnDv0pXcITO9QmN4hMX1f41+sYurS0ECgCfybqe+TOZlSfzbYGq9bm6uzORx4aYeL1O/neaNWqhBcl/y2Ju6qDK9OsHBXp+xXvH/q+y6+lmWlhSsQ3w6G
+        8ze9X3MJjfB9xorzLnVFlt71yoHzH2C8U6AAAAAAAAAAAA==
         AAAQAAAA
       >
       FLOATPOS 24 52 790 564
@@ -32557,7 +32474,7 @@
     SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 1 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
