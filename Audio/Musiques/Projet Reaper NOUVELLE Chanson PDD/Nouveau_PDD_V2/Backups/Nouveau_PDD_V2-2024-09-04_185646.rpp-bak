@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.15/win64" 1725472349
+<REAPER_PROJECT 0.1 "7.15/win64" 1725469006
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 48.55803813222344
-  ZOOM 4.22998967628585 0 0
+  CURSOR 23.41308436237826
+  ZOOM 5.95393574987486 0 0
   VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
@@ -14133,7 +14133,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1.26386553538292 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 2 -1
@@ -16961,7 +16961,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.82719563283965 0 -1 -1 1
+    VOLPAN 0.99354619307878 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -16994,7 +16994,7 @@
     >
     <FXCHAIN
       SHOW 0
-      LASTSEL 4
+      LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: M1 (KORG) (16 out)" M1.dll 0 "" 1263291697<5653544B4C4D316D3100000000000000> ""
@@ -17194,11 +17194,11 @@
       FXID {ADB481EA-67FE-43FF-9D1E-B07A229C99A2}
       WAK 0 0
       BYPASS 0 0 0
-      <JS sstillwell/stereowidth ""
-        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      <JS analysis/gfxspectrograph ""
+        6 2 -180 0 0 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
-      FLOATPOS 0 0 0 0
-      FXID {72522B85-BAC9-4AB8-B82F-F0BD5A11454B}
+      FLOATPOS 24 52 656 466
+      FXID {007DA6D0-B6BE-4241-BF9A-70AC6DA54106}
       WAK 0 0
     >
     <ITEM
@@ -19581,7 +19581,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.81373363031394 0 -1 -1 1
+    VOLPAN 0.91693835004149 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -19800,13 +19800,6 @@
       >
       FLOATPOS 56 84 664 309
       FXID {E6332E82-BD27-4191-A458-507ECDBE4E1D}
-      WAK 0 0
-      BYPASS 0 0 0
-      <JS sstillwell/stereowidth ""
-        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-      >
-      FLOATPOS 0 0 0 0
-      FXID {E6CC2E56-DFF0-45FB-A89C-DA6B0E087B33}
       WAK 0 0
     >
     <ITEM
@@ -20040,7 +20033,7 @@
     PLAYOFFS 0 1
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.337386 0.5 1 0.5 2 0 0
+    SHOWINMIX 1 0.337386 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0
     SEL 0
     REC 0 0 0 0 0 0 0 0
@@ -27602,12 +27595,12 @@
       BYPASS 0 0 0
       <VST "VST3i: sforzando (Plogue Art et Technologie, Inc)" sforzando.vst3 0 "" 395535903{5C5CA79682FC437AB6539BA204BAB349} ""
         H2aTF+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAACAgAAAQAAAP//EAA=
-        8gEAAAEAAAAAAAAA6gEAAENFR1AKBQAAeJyNVE2P2jAQvVfqf7B8rZbYIYQika5oQW1UZamasNfICYZa9QdNnGj333diIOSwq8Bp5s2b8cwLM8vHFyVRy6taGB1hOiEY
-        PX75+GG5qgRLWcsHsUU4x+hUmX1T2ngNAKEBBi6C3zLl1gp9rNG/hklhXyGMUW0rzhTAEZ76GCn2kjpkJaUpk68RnlGAk3gdbxubmD13WayxRjELj6bS2AiTISR5y2WE
-        hYbajeLaYiRFy8/JwKzLCPvhtDOYZABR9IB419SkLuUF/gZ5vIpwCAlHaQoms0a7NgHw+pHgdST2DtRMQf364HvZdvdju8vjpzT7vUs2T1n+KV+Dlf+Ms7wjEEI8EpD8
-        WRgpNEYF039jqBJAAN/kBLv8w7TupnmAqU9GgmhhgJG99XIq8orpI79QLDi1C6iBaUoLH2owPVBVYx1ymcXNkzChr/O0TDZntb03KbSnkPco/jhlOk4JximzcUo4TpmP
-        Uz6PUxbjFEru4NyhL71DYHqHwvQOien7Gv9iFVOXhgYCTeDfTH2fzMmU+rPB1njd2lydzeHASztcpH4/zxu1UoXguuS3NXFXZXh1goW7OmW/4v1T33fxtSwrLVyB+HYw
-        nL/p/ZpLaITvM1acd6krsvSuVw6c/3DEU6YAAAAAAAAAAA==
+        8gEAAAEAAAAAAAAA6gEAAENFR1AKBQAAeJyNVMGO2jAQvVfqP1i+VkvskECRSFe0oDaqslRN2GvkGEOtOjZNnGj37zsxEHLYVeA08+bNeOaFmeXjS6lQK6paGh1hOiEY
+        PX75+GG5qiRLWSsGscVsjtGpMvuG23gNAKEBBi6C3zIV1kp9rNG/hilpXyGMUW0rwUqAIzz1MSrZS+qQlVKGJ18jHFKAk3gdbxubmL1wWayxpmQWHk2VsREmQ0iJVqgI
+        Sw21m1Joi5GSrTgnA7PmEfbDsDOYYgBR9IBE19Sk5uoCf4M8UUV4BglHZQqmska7NgHw+pHgdST3DtSshPr1wfey7e7HdpfHT2n2e5dsnrL8U74GK/8ZZ3lHIIR4JCD5
+        szRKaowKpv/GUCWAAL7JCTb/w7TupnmAqU9GgWizACN76+VU5BXTR3GhWHBqFygHpuEWPtRg+imAjXXIZRY3T8Kkvs7TMtWc1fbepNCeQt6j+OOU6TglGKeE45TZOGU+
+        Tvk8TlmMUyi5g3OHvvQOgekdCtM7JKbva/yLVay8NDQQaAL/Zur7ZE6m1A8HW+N1a3N1NoeD4Ha4SP1+njdqVRZSaC5ua+KuyvDqBAt3dXi/4v1T33fxtSzjFq5AfDsY
+        zt/0fi0UNCL2GSvOu9QVWXrXKwfOf3i8U6kAAAAAAAAAAA==
         AAAQAAAA
       >
       FLOATPOS 24 52 790 564

@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.15/win64" 1725472349
+<REAPER_PROJECT 0.1 "7.15/win64" 1725468769
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 48.55803813222344
-  ZOOM 4.22998967628585 0 0
+  CURSOR 24.20809690720391
+  ZOOM 16.60346200963913 0 0
   VZOOMEX 0 0
   USE_REC_CFG 0
   RECMODE 1
@@ -67,14 +67,14 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.881503 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 0 0 0.5 0.5 1 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_PANLAWFLAGS 3
   MASTER_FX 1
-  MASTER_SEL 1
+  MASTER_SEL 0
   <MASTERFXLIST
     SHOW 0
     LASTSEL 0
@@ -3586,7 +3586,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.80045807461246 0 -1 -1 1
+    VOLPAN 0.93184106662624 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -3805,13 +3805,6 @@
       >
       FLOATPOS 0 0 0 0
       FXID {886267D2-CD13-4D77-9608-09933DDC21F6}
-      WAK 0 0
-      BYPASS 0 0 0
-      <JS sstillwell/stereowidth ""
-        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-      >
-      FLOATPOS 0 0 0 0
-      FXID {CF334D2E-557B-4AE9-B0CC-5C866CB41E50}
       WAK 0 0
     >
     <ITEM
@@ -5780,7 +5773,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {2E456A51-687F-4163-B11D-108F5157A205}
       IID 746
       NAME "01-M1 (KORG) (16 out)-MIDI-glued"
@@ -5793,84 +5786,84 @@
         HASDATA 1 960 QN
         CCINTERP 32
         POOLEDEVTS {EACC5B06-40EE-47AF-8203-ACF0A87CC4EA}
-        e 2400 90 2f 60
-        e 371 80 2f 00
-        e 109 90 34 60
-        e 316 80 34 00
-        e 164 90 34 60
-        e 316 80 34 00
-        e 164 90 3b 60
-        e 316 80 3b 00
-        e 164 90 3b 60
-        e 1014 80 3b 00
-        e 426 90 3c 60
-        e 380 80 3c 00
-        e 580 90 39 60
-        e 380 80 39 00
-        e 100 90 3b 60
-        e 960 80 3b 00
-        e 480 90 40 60
-        e 480 80 40 00
-        e 0 90 42 60
-        e 480 80 42 00
-        e 0 90 43 60
-        e 480 80 43 00
-        e 0 90 40 60
-        e 480 80 40 00
-        e 480 90 40 60
-        e 480 80 40 00
-        e 0 90 42 60
-        e 480 80 42 00
-        e 480 90 3f 60
-        e 480 80 3f 00
-        e 0 90 40 60
-        e 1440 80 40 00
-        e 0 90 3d 60
-        e 304 80 3d 00
-        e 176 90 3d 60
-        e 304 80 3d 00
-        e 176 90 3d 60
-        e 304 80 3d 00
-        e 176 90 3d 60
-        e 460 80 3d 00
-        e 500 90 3d 60
-        e 480 80 3d 00
-        e 0 90 3f 60
-        e 797 80 3f 00
-        e 643 90 3f 60
-        e 480 80 3f 00
-        e 960 90 40 60
-        e 284 80 40 00
-        e 196 90 40 60
-        e 284 80 40 00
-        e 196 90 40 60
-        e 284 80 40 00
-        e 196 90 40 60
-        e 362 80 40 00
-        e 118 90 3f 60
-        e 480 80 3f 00
-        e 0 90 40 60
-        e 480 80 40 00
-        e 0 90 42 60
-        e 903 80 42 00
-        e 537 90 3b 60
-        e 480 80 3b 00
-        e 960 90 40 60
-        e 480 80 40 00
-        e 480 90 40 60
-        e 480 80 40 00
-        e 0 90 40 60
-        e 480 80 40 00
-        e 0 90 42 60
-        e 480 80 42 00
-        e 0 90 43 60
-        e 480 80 43 00
-        e 0 90 45 60
-        e 1440 80 45 00
-        e 0 90 45 60
-        e 1440 80 45 00
-        e 0 90 43 60
-        e 2400 80 43 00
+        E 2400 90 3b 60
+        E 371 80 3b 00
+        E 109 90 40 60
+        E 316 80 40 00
+        E 164 90 40 60
+        E 316 80 40 00
+        E 164 90 47 60
+        E 316 80 47 00
+        E 164 90 47 60
+        E 1014 80 47 00
+        E 426 90 48 60
+        E 380 80 48 00
+        E 580 90 45 60
+        E 380 80 45 00
+        E 100 90 47 60
+        E 960 80 47 00
+        E 480 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4e 60
+        E 480 80 4e 00
+        E 0 90 4f 60
+        E 480 80 4f 00
+        E 0 90 4c 60
+        E 480 80 4c 00
+        E 480 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4e 60
+        E 480 80 4e 00
+        E 480 90 4b 60
+        E 480 80 4b 00
+        E 0 90 4c 60
+        E 1440 80 4c 00
+        E 0 90 49 60
+        E 304 80 49 00
+        E 176 90 49 60
+        E 304 80 49 00
+        E 176 90 49 60
+        E 304 80 49 00
+        E 176 90 49 60
+        E 460 80 49 00
+        E 500 90 49 60
+        E 480 80 49 00
+        E 0 90 4b 60
+        E 797 80 4b 00
+        E 643 90 4b 60
+        E 480 80 4b 00
+        E 960 90 4c 60
+        E 284 80 4c 00
+        E 196 90 4c 60
+        E 284 80 4c 00
+        E 196 90 4c 60
+        E 284 80 4c 00
+        E 196 90 4c 60
+        E 362 80 4c 00
+        E 118 90 4b 60
+        E 480 80 4b 00
+        E 0 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4e 60
+        E 903 80 4e 00
+        E 537 90 47 60
+        E 480 80 47 00
+        E 960 90 4c 60
+        E 480 80 4c 00
+        E 480 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4c 60
+        E 480 80 4c 00
+        E 0 90 4e 60
+        E 480 80 4e 00
+        E 0 90 4f 60
+        E 480 80 4f 00
+        E 0 90 51 60
+        E 1440 80 51 00
+        E 0 90 51 60
+        E 1440 80 51 00
+        e 0 90 4f 60
+        e 2400 80 4f 00
         E 3360 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -5878,7 +5871,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 345
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW 3160.08 0.06694 17 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 24054.476767 0.06694 17 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -7790,7 +7783,7 @@
     MAINSEND 1 0
     <FXCHAIN
       SHOW 0
-      LASTSEL 4
+      LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: M1 (KORG) (16 out)" M1.dll 0 "" 1263291697<5653544B4C4D316D3100000000000000> ""
@@ -14132,7 +14125,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1.26386553538292 0 -1 -1 1
+    VOLPAN 1.4142666244338 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -14140,10 +14133,10 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.425532 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 183 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -14241,7 +14234,7 @@
       <VST "VST: ReaVerb (Cockos)" reaverb.dll 0 "" 1919252066<56535472657662726561766572620000> ""
         YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAQwWJWFz4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQFZFUkJHRU4AGAAAAAAAAAC/84BEAACAP/YoqkLwpalCcT1KPw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 24 52 517 519
       FXID {78AB5335-E456-43FB-8251-76F7EF6A76D3}
@@ -14278,7 +14271,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01083333333334 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {4C95AD06-8801-44FF-BFBF-8E808D918382}
       IID 1646
       NAME 13-Chant-240903_1713-glued.wav
@@ -16961,7 +16954,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.82719563283965 0 -1 -1 1
+    VOLPAN 0.99354619307878 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -16994,7 +16987,7 @@
     >
     <FXCHAIN
       SHOW 0
-      LASTSEL 4
+      LASTSEL 0
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: M1 (KORG) (16 out)" M1.dll 0 "" 1263291697<5653544B4C4D316D3100000000000000> ""
@@ -17194,11 +17187,11 @@
       FXID {ADB481EA-67FE-43FF-9D1E-B07A229C99A2}
       WAK 0 0
       BYPASS 0 0 0
-      <JS sstillwell/stereowidth ""
-        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      <JS analysis/gfxspectrograph ""
+        6 2 -180 0 0 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
-      FLOATPOS 0 0 0 0
-      FXID {72522B85-BAC9-4AB8-B82F-F0BD5A11454B}
+      FLOATPOS 24 52 656 466
+      FXID {007DA6D0-B6BE-4241-BF9A-70AC6DA54106}
       WAK 0 0
     >
     <ITEM
@@ -19581,7 +19574,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.81373363031394 0 -1 -1 1
+    VOLPAN 0.91693835004149 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -19800,13 +19793,6 @@
       >
       FLOATPOS 56 84 664 309
       FXID {E6332E82-BD27-4191-A458-507ECDBE4E1D}
-      WAK 0 0
-      BYPASS 0 0 0
-      <JS sstillwell/stereowidth ""
-        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-      >
-      FLOATPOS 0 0 0 0
-      FXID {E6CC2E56-DFF0-45FB-A89C-DA6B0E087B33}
       WAK 0 0
     >
     <ITEM
@@ -20034,13 +20020,13 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1.27038660407147 0 -1 -1 1
+    VOLPAN 1.20647220408148 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.337386 0.5 1 0.5 2 0 0
+    SHOWINMIX 1 0.337386 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0
     SEL 0
     REC 0 0 0 0 0 0 0 0
@@ -27601,13 +27587,13 @@
       DOCKED 0
       BYPASS 0 0 0
       <VST "VST3i: sforzando (Plogue Art et Technologie, Inc)" sforzando.vst3 0 "" 395535903{5C5CA79682FC437AB6539BA204BAB349} ""
-        H2aTF+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAACAgAAAQAAAP//EAA=
-        8gEAAAEAAAAAAAAA6gEAAENFR1AKBQAAeJyNVE2P2jAQvVfqf7B8rZbYIYQika5oQW1UZamasNfICYZa9QdNnGj333diIOSwq8Bp5s2b8cwLM8vHFyVRy6taGB1hOiEY
-        PX75+GG5qgRLWcsHsUU4x+hUmX1T2ngNAKEBBi6C3zLl1gp9rNG/hklhXyGMUW0rzhTAEZ76GCn2kjpkJaUpk68RnlGAk3gdbxubmD13WayxRjELj6bS2AiTISR5y2WE
-        hYbajeLaYiRFy8/JwKzLCPvhtDOYZABR9IB419SkLuUF/gZ5vIpwCAlHaQoms0a7NgHw+pHgdST2DtRMQf364HvZdvdju8vjpzT7vUs2T1n+KV+Dlf+Ms7wjEEI8EpD8
-        WRgpNEYF039jqBJAAN/kBLv8w7TupnmAqU9GgmhhgJG99XIq8orpI79QLDi1C6iBaUoLH2owPVBVYx1ymcXNkzChr/O0TDZntb03KbSnkPco/jhlOk4JximzcUo4TpmP
-        Uz6PUxbjFEru4NyhL71DYHqHwvQOien7Gv9iFVOXhgYCTeDfTH2fzMmU+rPB1njd2lydzeHASztcpH4/zxu1UoXguuS3NXFXZXh1goW7OmW/4v1T33fxtSwrLVyB+HYw
-        nL/p/ZpLaITvM1acd6krsvSuVw6c/3DEU6YAAAAAAAAAAA==
+        H2aTF+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAABAgAAAQAAAP//EAA=
+        8QEAAAEAAAAAAAAA6QEAAENFR1AKBQAAeJyNVMGO2jAQvVfqP1i+VkvsEKBIpCtaUBtVWaom7DVyjKFWHZsmTrT7950YCDnsKuE08+bNeOaFmdXjS6FQI8pKGh1iOiEY
+        PX75+GG1LiVLWCN6seV8gdG5NIea22gDAKEBBi6C3yoR1kp9qtC/milpXyGMUWVLwQqAQzz1MSrYS+KQtVKGx19DPKMAx9Em2tU2NgfhslhtTcEsPJooY0NM+pASjVAh
+        lhpq14XQFiMlG3FJBmbFQ+wHfmswxQCi6AGJtqlJxdUV/gZ5ogzxHBJOyuRMpbV2bQLgdSPB60geHKhZAfWro++lu/2P3T6LnpL09z7ePqXZp2wDVvYzSrOWQAjxSECy
+        Z2mU1BjlTP+NoEoAAXyXE2z+h2ndTvMAU5+NAtHmAUb23ss5z0qmT+JKseBULlD0TMMtfKje9C1YW4dcZ3HzxEzq2zwNU/VFbe9NCu0o5D2KP0yZDlOCYcpsmDIfpiyG
+        KZ+HKcthCiUjOCP0pSMEpiMUpiMkpu9r/IuVrLg21BNoAv9m6vtkQabUn/W2xmvX5uZsj0fBbX+Ruv28bNS6yKXQXNzXxF2V/tUJlu7q8G7Fu6e+76NbWcYtXIHofjCc
+        v+38SihoRBxSll92qS2y8m5XDpz/WM1TnQAAAAAAAAAA
         AAAQAAAA
       >
       FLOATPOS 24 52 790 564
