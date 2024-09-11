@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.22/win64" 1726089634
+<REAPER_PROJECT 0.1 "7.22/win64" 1726078044
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 125.375
-  ZOOM 6.4905471518875 0 0
+  CURSOR 45
+  ZOOM 12.85911208940576 0 0
   VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
@@ -75,7 +75,7 @@
   MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
-  MASTER_VOLUME 0.21717537319559 0 -1 -1 1
+  MASTER_VOLUME 1 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_PANLAWFLAGS 3
   MASTER_FX 1
@@ -1420,8 +1420,8 @@
         E 240 80 3c 00
         E 240 90 40 01
         E 323 80 40 00
-        e 1117 90 3c 40
-        e 240 80 3c 00
+        E 1117 90 3d 40
+        E 240 80 3d 00
         E 1200 90 40 01
         E 323 80 40 00
         E 157 90 41 5e
@@ -1497,7 +1497,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 513
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW -42451.69829 0.022581 36 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.009375 36 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -1629,7 +1629,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 515
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW -26363.31738 0.022581 36 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.009375 36 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -3576,7 +3576,7 @@
     <ITEM
       POSITION 100.5
       SNAPOFFS 0
-      LENGTH 30
+      LENGTH 31
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
@@ -3951,25 +3951,25 @@
     <ITEM
       POSITION 31.5
       SNAPOFFS 0
-      LENGTH 18
+      LENGTH 21
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
-      IGUID {34671B3F-765A-48F6-B82C-E07E921CD77D}
-      IID 1994
+      SEL 1
+      IGUID {231349F0-695C-497B-983A-7DD3A8AFFBA0}
+      IID 1991
       NAME "01-M1 (KORG) (16 out)-MIDI-glued"
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B26866A7-E134-46E3-BAA4-09D89294D871}
+      GUID {859A4596-4991-446E-B773-3CD3BA4DD141}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {615B9956-177E-491D-B62D-35BD7AE7F5AB}
+        POOLEDEVTS {997B2ADF-D1D6-4647-95D6-227FC9F6BB8A}
         E 0 90 3c 40
         E 323 80 3c 00
         E 637 90 41 5e
@@ -4032,226 +4032,200 @@
         E 323 80 3e 00
         E 1117 90 41 5e
         E 323 80 41 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 2557 b0 7b 00
+        e 1117 90 40 01
+        e 323 80 40 00
+        E 8317 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {F5CBC709-3E47-468D-B9B0-88802E54EA52}
+        GUID {71357992-588B-4B90-8FAD-FEE32346318D}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 963
+        SRCCOLOR 958
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 2673.930325 0.04637 39 22 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 433 378 2016 1292 0 0 0 0 0.25 0 0 1 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 64.5
+      POSITION 63
       SNAPOFFS 0
-      LENGTH 27
+      LENGTH 16.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {F034911C-FC59-47ED-866B-4F0D682DB6C3}
-      IID 1995
+      IGUID {024FEF64-222E-491B-87DF-8D50FD0C618F}
+      IID 760
       NAME "01-M1 (KORG) (16 out)-MIDI-glued"
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {2EC02016-90FB-4A74-852F-9F42B7C0B639}
+      GUID {73AF91BC-14BD-4109-A027-53EBCE211E96}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {B615AF7F-F526-49CC-9C87-6FC14EA7B366}
+        POOLEDEVTS {95D7048C-D257-40C5-BC30-D66D2A3B4D1D}
         E 0 90 3c 40
         E 323 80 3c 00
         E 637 90 41 5e
         E 323 80 41 00
-        E 157 90 3c 40
-        E 323 80 3c 00
+        E 157 90 41 5e
+        E 323 80 41 00
+        E 1117 90 40 01
+        E 323 80 40 00
+        E 1117 90 41 5e
+        E 323 80 41 00
+        E 1117 90 3e 7f
+        E 323 80 3e 00
+        E 1117 90 3e 7f
+        E 323 80 3e 00
+        E 1117 90 41 5e
+        E 323 80 41 00
+        E 637 90 40 01
+        E 323 80 40 00
+        E 157 90 40 01
+        E 323 80 40 00
         E 1117 90 3c 40
         E 323 80 3c 00
-        E 637 90 40 01
-        E 323 80 40 00
-        E 157 90 41 5e
-        E 323 80 41 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 637 90 3c 40
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 157 90 3c 40
         E 323 80 3c 00
         E 157 90 3c 40
         E 323 80 3c 00
         E 1117 90 3e 7f
         E 323 80 3e 00
-        E 637 90 40 01
+        E 1117 90 3e 7f
+        E 323 80 3e 00
+        E 1117 90 40 01
         E 323 80 40 00
         E 157 90 40 01
         E 323 80 40 00
-        E 637 90 40 01
-        E 323 80 40 00
-        E 157 90 41 5e
-        E 323 80 41 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 41 5e
-        E 323 80 41 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 637 90 3e 7f
-        E 323 80 3e 00
-        E 637 90 40 01
-        E 323 80 40 00
-        E 637 90 3e 7f
-        E 323 80 3e 00
-        E 637 90 3c 40
-        E 323 80 3c 00
-        E 1117 90 41 5e
-        E 323 80 41 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
         E 157 90 40 01
         E 323 80 40 00
-        E 157 90 41 5e
-        E 323 80 41 00
+        E 157 90 40 01
+        E 323 80 40 00
         E 1117 90 41 5e
         E 323 80 41 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
         E 1117 90 3c 40
         E 323 80 3c 00
-        E 637 90 3e 7f
+        E 1117 90 3e 7f
         E 323 80 3e 00
-        E 157 90 40 01
+        E 1117 90 3e 7f
+        E 323 80 3e 00
+        E 637 90 40 01
         E 323 80 40 00
-        E 1117 90 40 01
-        E 323 80 40 00
+        E 157 90 41 5e
+        E 323 80 41 00
         E 1117 90 41 5e
         E 323 80 41 00
-        E 6877 b0 7b 00
+        E 1117 90 40 01
+        E 323 80 40 00
+        E 2557 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {E1F8E66F-BF4D-4824-BCB2-7B1B577BACCE}
+        GUID {88DD7A40-55AD-45E1-832B-029DA1C7351C}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 965
+        SRCCOLOR 521
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 0 0.013636 36 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 417 362 2016 1292 0 0 0 0 0.25 0 0 1 0 0.5 0 0 1 64
       >
     >
     <ITEM
-      POSITION 102
+      POSITION 100.5
       SNAPOFFS 0
-      LENGTH 28.5
+      LENGTH 24
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
-      IGUID {5080A252-6E84-4B2C-AF25-37E7D6C2729B}
-      IID 1998
+      SEL 0
+      IGUID {B85AAC7A-D558-462C-A433-55048DE45A40}
+      IID 761
       NAME "01-M1 (KORG) (16 out)-MIDI-glued"
       VOLPAN 1 0 1 -1
       SOFFS 0 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {EAB472C6-6635-4C2B-A7C9-7B61A3181CEC}
+      GUID {305C987C-36C1-4D4D-8476-EDE21452CE98}
       <SOURCE MIDI
         HASDATA 1 960 QN
         CCINTERP 32
-        POOLEDEVTS {C7E470C2-CCC1-45D7-A04E-380490E75F38}
-        E 0 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 1117 90 3e 7f
+        POOLEDEVTS {911658D5-6772-49F9-923E-E124FA385EE1}
+        E 0 90 3e 7f
         E 323 80 3e 00
-        E 1117 90 3c 40
-        E 323 80 3c 00
-        E 1117 90 41 5e
-        E 323 80 41 00
-        E 637 90 41 5e
-        E 323 80 41 00
-        E 157 90 41 5e
-        E 323 80 41 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 637 90 3e 7f
-        E 323 80 3e 00
-        E 157 90 41 5e
-        E 323 80 41 00
-        E 1117 90 3c 40
-        E 323 80 3c 00
-        E 1117 90 3c 40
-        E 323 80 3c 00
         E 1117 90 40 01
         E 323 80 40 00
         E 637 90 40 01
         E 323 80 40 00
         E 157 90 41 5e
         E 323 80 41 00
-        E 157 90 40 01
-        E 323 80 40 00
-        E 637 90 3e 7f
-        E 323 80 3e 00
         E 1117 90 3e 7f
         E 323 80 3e 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 637 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
         E 637 90 41 5e
+        E 323 80 41 00
+        E 157 90 41 5e
         E 323 80 41 00
         E 1117 90 3e 7f
         E 323 80 3e 00
-        E 637 90 3c 40
+        E 1117 90 3c 40
         E 323 80 3c 00
+        E 1117 90 40 01
+        E 323 80 40 00
+        E 1117 90 3e 7f
+        E 323 80 3e 00
+        E 1117 90 3c 40
+        E 323 80 3c 00
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 637 90 40 01
+        E 323 80 40 00
+        E 1117 90 41 5e
+        E 323 80 41 00
+        E 637 90 41 5e
+        E 323 80 41 00
+        E 157 90 40 01
+        E 323 80 40 00
+        E 1117 90 3c 40
+        E 323 80 3c 00
+        E 637 90 40 01
+        E 323 80 40 00
+        E 157 90 41 5e
+        E 323 80 41 00
+        E 2077 90 41 5e
+        E 323 80 41 00
         E 157 90 3e 7f
         E 323 80 3e 00
+        E 637 90 3e 7f
+        E 323 80 3e 00
+        E 157 90 3e 7f
+        E 323 80 3e 00
+        E 1117 90 40 01
+        E 323 80 40 00
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 157 90 40 01
+        E 323 80 40 00
+        E 157 90 40 01
+        E 323 80 40 00
+        E 1117 90 3e 7f
+        E 323 80 3e 00
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 157 90 3c 40
+        E 323 80 3c 00
         E 1117 90 41 5e
         E 323 80 41 00
         E 157 90 41 5e
@@ -4262,52 +4236,42 @@
         E 323 80 41 00
         E 1117 90 40 01
         E 323 80 40 00
+        E 157 90 40 01
+        E 323 80 40 00
+        E 157 90 40 01
+        E 323 80 40 00
+        E 157 90 40 01
+        E 323 80 40 00
         E 637 90 40 01
-        E 323 80 40 00
-        E 157 90 40 01
-        E 323 80 40 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 637 90 3e 7f
-        E 323 80 3e 00
-        E 157 90 40 01
-        E 323 80 40 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3c 40
-        E 323 80 3c 00
-        E 157 90 3e 7f
-        E 323 80 3e 00
-        E 1117 90 3c 40
-        E 323 80 3c 00
-        E 1117 90 3c 40
-        E 323 80 3c 00
-        E 1117 90 40 01
-        E 323 80 40 00
-        E 157 90 40 01
-        E 323 80 40 00
-        E 157 90 40 01
         E 323 80 40 00
         E 157 90 41 5e
         E 323 80 41 00
-        E 1117 90 3e 7f
+        E 637 90 3e 7f
         E 323 80 3e 00
-        E 637 90 3c 40
-        E 323 80 3c 00
         E 157 90 3e 7f
         E 323 80 3e 00
-        E 3997 b0 7b 00
+        E 1117 90 3c 40
+        E 323 80 3c 00
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 157 90 3c 40
+        E 323 80 3c 00
+        E 1117 90 3e 7f
+        E 323 80 3e 00
+        E 2557 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
-        GUID {3B566F22-1989-4F3E-A1F7-E052111CFEC2}
+        GUID {CF97B780-F65F-422E-B242-E3F0B5DCF523}
         IGNTEMPO 0 120 4 4
-        SRCCOLOR 970
+        SRCCOLOR 523
+        VELLANE -1 100 0 0 1
+        CFGEDITVIEW 0 0.009375 36 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 252
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 0 1 1 1 1 1 0.125 433 378 2016 1292 0 0 0 0 0.25 0 0 1 0 0.5 0 0 1 64
       >
     >
     <ITEM
