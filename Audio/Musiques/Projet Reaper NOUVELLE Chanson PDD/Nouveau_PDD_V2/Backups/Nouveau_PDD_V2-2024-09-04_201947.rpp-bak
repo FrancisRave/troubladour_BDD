@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.15/win64" 1725468805
+<REAPER_PROJECT 0.1 "7.15/win64" 1725473987
   <NOTES 0 2
   >
   RIPPLE 0
@@ -13,14 +13,14 @@
   PANLAW 1
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
-  GRID 3455 8 1 8 1 0 0 0
+  GRID 3199 8 1 8 1 0 0 0
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 21.46540280533615
-  ZOOM 32.89488144185978 0 0
-  VZOOMEX 0 0
+  CURSOR 41.5
+  ZOOM 65.17154220281435 2478 0
+  VZOOMEX 3 1056
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -32,7 +32,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\François Janot\Desktop\Test_Nouveau_Mix (mensonges_actually).ogg"
+  RENDER_FILE "C:\Users\François Janot\Desktop\Nouveaux_Audio_Septembre_CVB\Couplet_5B_120bpm_V2.ogg"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -61,16 +61,16 @@
   GLOBAL_AUTO -1
   TEMPO 120 6 8
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0
-  SELECTION2 0 0
+  SELECTION 41.5 69
+  SELECTION2 41.5 69
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0 0.5 0.5 1 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 0 0.33237 0.5 0.5 0 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
-  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_VOLUME 1.10420256279364 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_PANLAWFLAGS 3
   MASTER_FX 1
@@ -3586,7 +3586,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.93184106662624 0 -1 -1 1
+    VOLPAN 0.80045807461246 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -3805,6 +3805,13 @@
       >
       FLOATPOS 0 0 0 0
       FXID {886267D2-CD13-4D77-9608-09933DDC21F6}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS sstillwell/stereowidth ""
+        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {CF334D2E-557B-4AE9-B0CC-5C866CB41E50}
       WAK 0 0
     >
     <ITEM
@@ -5421,7 +5428,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1.63360764149342 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -5454,7 +5461,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0
-    SEL 1
+    SEL 0
     REC 0 5088 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -5773,7 +5780,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {2E456A51-687F-4163-B11D-108F5157A205}
       IID 746
       NAME "01-M1 (KORG) (16 out)-MIDI-glued"
@@ -7783,7 +7790,7 @@
     MAINSEND 1 0
     <FXCHAIN
       SHOW 0
-      LASTSEL 0
+      LASTSEL 4
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: M1 (KORG) (16 out)" M1.dll 0 "" 1263291697<5653544B4C4D316D3100000000000000> ""
@@ -14125,7 +14132,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 1.4142666244338 0 -1 -1 1
+    VOLPAN 1.26386553538292 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -14136,7 +14143,7 @@
     SEL 0
     REC 0 0 0 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 183 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -14234,7 +14241,7 @@
       <VST "VST: ReaVerb (Cockos)" reaverb.dll 0 "" 1919252066<56535472657662726561766572620000> ""
         YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
         AAAQwWJWFz4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQFZFUkJHRU4AGAAAAAAAAAC/84BEAACAP/YoqkLwpalCcT1KPw==
-        AFByb2dyYW0gMQAQAAAA
+        AAAQAAAA
       >
       FLOATPOS 24 52 517 519
       FXID {78AB5335-E456-43FB-8251-76F7EF6A76D3}
@@ -16954,7 +16961,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.99354619307878 0 -1 -1 1
+    VOLPAN 0.82719563283965 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -16987,7 +16994,7 @@
     >
     <FXCHAIN
       SHOW 0
-      LASTSEL 0
+      LASTSEL 4
       DOCKED 0
       BYPASS 0 0 0
       <VST "VSTi: M1 (KORG) (16 out)" M1.dll 0 "" 1263291697<5653544B4C4D316D3100000000000000> ""
@@ -17187,11 +17194,11 @@
       FXID {ADB481EA-67FE-43FF-9D1E-B07A229C99A2}
       WAK 0 0
       BYPASS 0 0 0
-      <JS analysis/gfxspectrograph ""
-        6 2 -180 0 0 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      <JS sstillwell/stereowidth ""
+        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
       >
-      FLOATPOS 24 52 656 466
-      FXID {007DA6D0-B6BE-4241-BF9A-70AC6DA54106}
+      FLOATPOS 0 0 0 0
+      FXID {72522B85-BAC9-4AB8-B82F-F0BD5A11454B}
       WAK 0 0
     >
     <ITEM
@@ -18464,7 +18471,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1.63360764149342 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
@@ -19574,7 +19581,7 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.91693835004149 0 -1 -1 1
+    VOLPAN 0.81373363031394 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -19793,6 +19800,13 @@
       >
       FLOATPOS 56 84 664 309
       FXID {E6332E82-BD27-4191-A458-507ECDBE4E1D}
+      WAK 0 0
+      BYPASS 0 0 0
+      <JS sstillwell/stereowidth ""
+        1.6 -4.1 -4.2 0 0 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E6CC2E56-DFF0-45FB-A89C-DA6B0E087B33}
       WAK 0 0
     >
     <ITEM
@@ -20026,9 +20040,9 @@
     PLAYOFFS 0 1
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.337386 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.337386 0.5 1 0.5 2 0 0
     FIXEDLANES 9 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -20131,7 +20145,7 @@
     <ITEM
       POSITION 42.95520626966286
       SNAPOFFS 0
-      LENGTH 25.06933928154472
+      LENGTH 20.20888614631156
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -20146,6 +20160,28 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {55C9CCA1-D2BD-4F83-B65A-D65D35D128E3}
+      <SOURCE WAVE
+        FILE "Media\26-Chant-240903_1646-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 63.57064431665899
+      SNAPOFFS 0
+      LENGTH 4.45390123454859
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C012325C-F8E1-41A1-A093-BE44529E6F11}
+      IID 1627
+      NAME 26-Chant-240903_1646-glued.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 20.61543804699613
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDB28F23-06BC-41EC-A34C-B56367FF4489}
       <SOURCE WAVE
         FILE "Media\26-Chant-240903_1646-glued.wav"
       >
@@ -24020,9 +24056,9 @@
         E 132 80 2b 26
         E 291 90 2b 1c
         E 249 80 2b 3a
-        E 268 90 2b 2a
-        E 343 80 2b 25
-        E 1143 90 2b 15
+        e 324 90 2b 2a
+        e 343 80 2b 25
+        E 1087 90 2b 15
         E 238 80 2b 20
         E 703 90 2b 1d
         E 190 80 2b 2c
@@ -24075,7 +24111,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 405
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW -2880 0.016667 36 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 2311.559077 0.312186 36 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -24498,13 +24534,13 @@
         POOLEDEVTS {4FDB8E23-DCA1-423E-99E3-383B10EB29FA}
         E 0 90 2b 17
         E 408 80 2b 14
-        E 994 90 2b 1c
+        E 72 90 2b 17
+        E 408 80 2b 14
+        E 72 90 2b 17
+        E 408 80 2b 14
+        E 72 90 2b 1c
         E 178 80 2b 25
-        E 790 90 2b 14
-        E 202 80 2b 32
-        E 297 90 2b 2c
-        E 318 80 2b 20
-        E 1127 90 2b 15
+        E 2696 90 2b 15
         E 155 80 2b 24
         E 295 90 2b 11
         E 132 80 2b 26
@@ -24565,7 +24601,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 417
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.016667 36 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -9281.594216 0.129612 36 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -25532,9 +25568,9 @@
         E 139 80 3c 4e
         E 316 90 3c 66
         E 140 80 3c 64
-        E 366 90 3c 7f
-        E 659 80 3c 22
-        E 789 90 3c 64
+        e 382 90 3c 7f
+        e 659 80 3c 22
+        E 773 90 3c 64
         E 221 80 3c 46
         E 760 90 3c 4d
         E 113 80 3c 60
@@ -25585,7 +25621,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 407
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW -2880 0.016667 36 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 4326.92687 0.751934 36 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -25999,14 +26035,14 @@
         CCINTERP 32
         POOLEDEVTS {4031FA9A-BBCA-40E9-841F-9A0BF642E634}
         E 0 90 3c 6a
-        E 904 80 3c 0f
-        E 564 90 3c 50
+        E 240 80 3c 0f
+        E 240 90 3c 6a
+        E 240 80 3c 0f
+        E 240 90 3c 6a
+        E 240 80 3c 0f
+        E 240 90 3c 50
         E 202 80 3c 2f
-        E 685 90 3c 59
-        E 191 80 3c 59
-        E 335 90 3c 78
-        E 596 80 3c 17
-        E 813 90 3c 4c
+        E 2648 90 3c 4c
         E 220 80 3c 3c
         E 273 90 3c 48
         E 139 80 3c 4e
@@ -26065,7 +26101,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 421
         VELLANE -1 100 0 0 1
-        CFGEDITVIEW 0 0.016667 36 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW -20036.754055 0.053812 36 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 252
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -27588,12 +27624,12 @@
       BYPASS 0 0 0
       <VST "VST3i: sforzando (Plogue Art et Technologie, Inc)" sforzando.vst3 0 "" 395535903{5C5CA79682FC437AB6539BA204BAB349} ""
         H2aTF+5e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAACAgAAAQAAAP//EAA=
-        8gEAAAEAAAAAAAAA6gEAAENFR1AKBQAAeJyNVMGO2jAQvVfqP1i+VkvsEKBIpCtaUBtVWaom7DVyjKFWbYcmTrT7950YCDnsKuE08+bNeOaFmdXji1aoEWUlCxNiOiEY
-        PX75+GG1LiVLWCN6seV8gdG5LA41t9EGAEIDDFwEv1UirJXmVKF/NVPSvkIYo8qWgmmAQzz1MdLsJXHIWqmCx19DPKMAx9Em2tU2Lg7CZbHaFppZeDRRhQ0x6UNKNEKF
-        WBqoXWthLEZKNuKSDMyKh9gPpq3BFAOIogck2qYmFVdX+BvkiTLEc0g4qSJnKq2NaxMArxsJXkfy4EDDNNSvjr6X7vY/dvssekrS3/t4+5Rmn7INWNnPKM1aAiHEIwHJ
-        nmWhpMEoZ+ZvBFUCCOC7nGDzP8yYdpoHmPpcKBBtHmBk772c86xk5iSuFAtO5QK6ZxbcwofqTQ9UXVuHXGdx88RMmts8DVP1RW3vTQrtKOQ9ij9MmQ5TgmHKbJgyH6Ys
-        himfhynLYQolIzgj9KUjBKYjFKYjJKbva/yLlUxfG+oJNIF/M/V9siBT6s96W+O1a3Nztsej4La/SN1+XjZqrXMpDBf3NXFXpX91gqW7Orxb8e6p7/voVpZxC1cguh8M
-        5287vxIKGhGHlOWXXWqLrLzblQPnP2DIU6AAAAAAAAAAAA==
+        8gEAAAEAAAAAAAAA6gEAAENFR1AKBQAAeJyNVE2P2jAQvVfqf7B8rZbYIUCRSFe0oDaqslRN2GvkBEOt+oMmTrT77zsxEHLYVcJp5s2b8cwLM6vHFyVRw8tKGB1iOiEY
+        PX75+GG1LgVLWMN7seV8gdG5NIe6sNEGAEIDDFwEv1XCrRX6VKF/NZPCvkIYo8qWnCmAQzz1MVLsJXHIWkpTxF9DPKMAx9Em2tU2NgfuslhtjWIWHk2ksSEmfUjyhssQ
+        Cw21a8W1xUiKhl+SgVkVIfaX09ZgkgFE0QPibVOTqpBX+Bvk8TLEc0g4SZMzmdbatQmA140EryNxcKBmCupXR99Ld/sfu30WPSXp7328fUqzT9kGrOxnlGYtgRDikYBk
+        z8JIoTHKmf4bQZUAAvguJ9jFH6Z1O80DTH02EkSbBxjZey/nPCuZPvErxYJTuYDqmaaw8KF60wNV1dYh11ncPDET+jZPw2R9Udt7k0I7CnmP4g9TpsOUYJgyG6bMhymL
+        YcrnYcpymELJCM4IfekIgekIhekIien7Gv9iJVPXhnoCTeDfTH2fLMiU+rPe1njt2tyc7fHIC9tfpG4/Lxu1VrnguuD3NXFXpX91gqW7OkW34t1T3/fRrSwrLFyB6H4w
+        nL/t/IpLaIQfUpZfdqktsvJuVw6c/4i+U68AAAAAAAAAAA==
         AAAQAAAA
       >
       FLOATPOS 24 52 790 564
